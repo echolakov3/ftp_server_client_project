@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ftp_server_client.dir/main.c.o  -o ftp_server_client 
